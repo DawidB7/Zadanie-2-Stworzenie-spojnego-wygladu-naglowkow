@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">refaktoryzacja</string>
+    <string name="app_name">spojny wyglad</string>
     <string name="login_text">Login: </string>
     <string name="haslo_text">Hasło: </string>
     <string name="login_hint">Podaj login:</string>
